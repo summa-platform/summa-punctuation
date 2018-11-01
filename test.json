@@ -1,0 +1,5192 @@
+{
+  "segments": [
+    [
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 0.3400000035762787,
+        "word": "can"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 0.6899999976158142,
+        "word": "do"
+      },
+      {
+        "confidence": 0.9963212013244629,
+        "duration": 0.17000000178813934,
+        "time": 2.240000009536743,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 2.4099998474121094,
+        "word": "stop"
+      },
+      {
+        "confidence": 0.8770713210105896,
+        "duration": 0.11999999731779099,
+        "time": 2.740000009536743,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5199999809265137,
+        "time": 2.859999895095825,
+        "word": "terrorism"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.20999999344348907,
+        "time": 3.379999876022339,
+        "word": "will"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 3.5899999141693115,
+        "word": "be"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3999999761581421,
+        "time": 3.7799999713897705,
+        "word": "done"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 4.329999923706055,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.35999998450279236,
+        "time": 4.579999923706055,
+        "word": "otherwise"
+      },
+      {
+        "confidence": 0.5041642189025879,
+        "duration": 0.08999999612569809,
+        "time": 4.940000057220459,
+        "word": "we're"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 5.029999732971191,
+        "word": "standing"
+      },
+      {
+        "confidence": 0.9388447999954224,
+        "duration": 0.12999999523162842,
+        "time": 5.359999656677246,
+        "word": "up"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 5.489999771118164,
+        "word": "for"
+      },
+      {
+        "confidence": 0.9390782117843628,
+        "duration": 0.1599999964237213,
+        "time": 5.62999963760376,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 5.789999961853027,
+        "word": "way"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 6.009999752044678,
+        "word": "of"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.38999998569488525,
+        "time": 6.150000095367432,
+        "word": "life"
+      },
+      {
+        "confidence": 0.9979112148284912,
+        "duration": 0.20999999344348907,
+        "time": 7.409999847412109,
+        "word": "on"
+      },
+      {
+        "confidence": 0.9979112148284912,
+        "duration": 0.05999999865889549,
+        "time": 7.619999885559082,
+        "word": "the"
+      },
+      {
+        "confidence": 0.4317834675312042,
+        "duration": 0.12999999523162842,
+        "time": 7.679999828338623,
+        "word": "way"
+      },
+      {
+        "confidence": 0.968575656414032,
+        "duration": 0.17000000178813934,
+        "time": 8.220000267028809,
+        "word": "it's"
+      },
+      {
+        "confidence": 0.8709601163864136,
+        "duration": 0.04999999701976776,
+        "time": 8.389999389648438,
+        "word": "a"
+      },
+      {
+        "confidence": 0.5403936505317688,
+        "duration": 0.3100000023841858,
+        "time": 8.4399995803833,
+        "word": "shows"
+      },
+      {
+        "confidence": 0.7683246731758118,
+        "duration": 0.14999999105930328,
+        "time": 8.75,
+        "word": "and"
+      },
+      {
+        "confidence": 0.7387770414352417,
+        "duration": 0.14999999105930328,
+        "time": 8.899999618530273,
+        "word": "his"
+      },
+      {
+        "confidence": 0.802632749080658,
+        "duration": 0.3100000023841858,
+        "time": 9.079999923706055,
+        "word": "family"
+      },
+      {
+        "confidence": 0.9900197982788086,
+        "duration": 0.17999999225139618,
+        "time": 9.389999389648438,
+        "word": "was"
+      },
+      {
+        "confidence": 0.8885061144828796,
+        "duration": 0.05999999865889549,
+        "time": 9.569999694824219,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 9.630000114440918,
+        "word": "case"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 9.960000038146973,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.429999977350235,
+        "time": 10.09999942779541,
+        "word": "spoke"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3199999928474426,
+        "time": 10.859999656677246,
+        "word": "about"
+      },
+      {
+        "confidence": 0.9904590845108032,
+        "duration": 0.05999999865889549,
+        "time": 11.179999351501465,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 11.239999771118164,
+        "word": "lot"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 11.479999542236328,
+        "word": "he"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 11.609999656677246,
+        "word": "was"
+      },
+      {
+        "confidence": 0.6648989319801331,
+        "duration": 0.28999999165534973,
+        "time": 12.369999885559082,
+        "word": "body"
+      },
+      {
+        "confidence": 0.9950543642044067,
+        "duration": 0.5899999737739563,
+        "time": 12.65999984741211,
+        "word": "islamic"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3799999952316284,
+        "time": 13.59999942779541,
+        "word": "potential"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6800000071525574,
+        "time": 13.979999542236328,
+        "word": "perpetrator"
+      },
+      {
+        "confidence": 0.8011213541030884,
+        "duration": 0.3100000023841858,
+        "time": 15.699999809265137,
+        "word": "kemi"
+      },
+      {
+        "confidence": 0.9508711695671082,
+        "duration": 0.429999977350235,
+        "time": 16.010000228881836,
+        "word": "excluded"
+      },
+      {
+        "confidence": 0.580746591091156,
+        "duration": 0.20999999344348907,
+        "time": 16.440000534057617,
+        "word": "cos"
+      },
+      {
+        "confidence": 0.9864078164100647,
+        "duration": 0.14000000059604645,
+        "time": 16.649999618530273,
+        "word": "like"
+      },
+      {
+        "confidence": 0.7816189527511597,
+        "duration": 0.08999999612569809,
+        "time": 16.78999900817871,
+        "word": "i"
+      },
+      {
+        "confidence": 0.7816189527511597,
+        "duration": 0.14999999105930328,
+        "time": 16.8799991607666,
+        "word": "am"
+      },
+      {
+        "confidence": 0.7795990705490112,
+        "duration": 0.17000000178813934,
+        "time": 17.029998779296875,
+        "word": "really"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 17.19999885559082,
+        "word": "in"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07000000029802322,
+        "time": 17.279998779296875,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 17.350000381469727,
+        "word": "future"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 17.690000534057617,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 17.85999870300293,
+        "word": "what"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 18.049999237060547,
+        "word": "will"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.35999998450279236,
+        "time": 18.25,
+        "word": "you"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.20999999344348907,
+        "time": 18.60999870300293,
+        "word": "do"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 18.81999969482422,
+        "word": "it"
+      },
+      {
+        "confidence": 0.9122748374938965,
+        "duration": 0.11999999731779099,
+        "time": 18.939998626708984,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 19.059999465942383,
+        "word": "make"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 19.25,
+        "word": "sure"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 19.529998779296875,
+        "word": "that"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 19.779998779296875,
+        "word": "such"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3799999952316284,
+        "time": 19.979999542236328,
+        "word": "case"
+      },
+      {
+        "confidence": 0.8806067109107971,
+        "duration": 0.14999999105930328,
+        "time": 20.389999389648438,
+        "word": "it's"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 20.53999900817871,
+        "word": "not"
+      },
+      {
+        "confidence": 0.8889226913452148,
+        "duration": 0.5600000023841858,
+        "time": 20.779998779296875,
+        "word": "repeated"
+      },
+      {
+        "confidence": 0.5929484367370605,
+        "duration": 0.26999998092651367,
+        "time": 22.579999923706055,
+        "word": "wasn't"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 22.850000381469727,
+        "word": "nobody"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 23.18000030517578,
+        "word": "can"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4599999785423279,
+        "time": 23.40999984741211,
+        "word": "guarantee"
+      },
+      {
+        "confidence": 0.9296194314956665,
+        "duration": 0.07999999821186066,
+        "time": 23.869998931884766,
+        "word": "you"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 23.94999885559082,
+        "word": "that"
+      },
+      {
+        "confidence": 0.9908074736595154,
+        "duration": 0.07999999821186066,
+        "time": 24.170000076293945,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 24.25,
+        "word": "german"
+      },
+      {
+        "confidence": 0.7410576343536377,
+        "duration": 0.8399999737739563,
+        "time": 24.549999237060547,
+        "word": "authorities"
+      }
+    ],
+    [
+      {
+        "confidence": 1,
+        "duration": 0.35999998450279236,
+        "time": 26.15999999404081,
+        "word": "always"
+      },
+      {
+        "confidence": 0.9931961297988892,
+        "duration": 0.3799999952316284,
+        "time": 26.549999979735695,
+        "word": "avoid"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 26.930000004769646,
+        "word": "such"
+      },
+      {
+        "confidence": 0.9722899794578552,
+        "duration": 0.03999999910593033,
+        "time": 27.17000001430639,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5600000023841858,
+        "time": 27.209999976159416,
+        "word": "mistake"
+      },
+      {
+        "confidence": 0.8435636758804321,
+        "duration": 0.35999998450279236,
+        "time": 27.800000009538017,
+        "word": "robin"
+      },
+      {
+        "confidence": 0.4698593318462372,
+        "duration": 0.05999999865889549,
+        "time": 28.250000057221733,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.04999999701976776,
+        "time": 28.310000000001274,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 28.35999995231756,
+        "word": "think"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4099999964237213,
+        "time": 28.649999914170586,
+        "word": "most"
+      },
+      {
+        "confidence": 0.7697575688362122,
+        "duration": 0.7599999904632568,
+        "time": 29.060000000001274,
+        "word": "authorities"
+      },
+      {
+        "confidence": 0.5639758110046387,
+        "duration": 0.10999999940395355,
+        "time": 29.929999885560356,
+        "word": "are"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 30.04000001907476,
+        "word": "working"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 30.549999771119438,
+        "word": "very"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 30.899999675752007,
+        "word": "well"
+      },
+      {
+        "confidence": 0.9356805682182312,
+        "duration": 0.07000000029802322,
+        "time": 31.179999885560356,
+        "word": "in"
+      },
+      {
+        "confidence": 0.992062509059906,
+        "duration": 0.07000000029802322,
+        "time": 31.250000057221733,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 31.319999752045952,
+        "word": "case"
+      },
+      {
+        "confidence": 0.9213014245033264,
+        "duration": 0.09999999403953552,
+        "time": 31.520000038148247,
+        "word": "of"
+      },
+      {
+        "confidence": 0.5824190378189087,
+        "duration": 0.26999998092651367,
+        "time": 31.619999942780815,
+        "word": "ami"
+      },
+      {
+        "confidence": 0.468784362077713,
+        "duration": 0.09999999403953552,
+        "time": 31.88999992370733,
+        "word": "their"
+      },
+      {
+        "confidence": 0.4954501986503601,
+        "duration": 0.1599999964237213,
+        "time": 31.989999828339897,
+        "word": "way"
+      },
+      {
+        "confidence": 0.4749773442745209,
+        "duration": 0.11999999731779099,
+        "time": 32.14999967575201,
+        "word": "as"
+      },
+      {
+        "confidence": 0.62328040599823,
+        "duration": 0.1599999964237213,
+        "time": 32.27000003814825,
+        "word": "a"
+      },
+      {
+        "confidence": 0.5346719622612,
+        "duration": 0.4899999797344208,
+        "time": 32.429999885560356,
+        "word": "stately"
+      },
+      {
+        "confidence": 0.802669107913971,
+        "duration": 0.17000000178813934,
+        "time": 32.91999965667852,
+        "word": "there"
+      },
+      {
+        "confidence": 0.8439000844955444,
+        "duration": 0.14999999105930328,
+        "time": 33.16999965667852,
+        "word": "we're"
+      },
+      {
+        "confidence": 0.9953482747077942,
+        "duration": 0.17000000178813934,
+        "time": 33.31999975204595,
+        "word": "not"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 33.4899998283399,
+        "word": "just"
+      },
+      {
+        "confidence": 0.6096022129058838,
+        "duration": 0.1599999964237213,
+        "time": 33.95999961853155,
+        "word": "a"
+      },
+      {
+        "confidence": 0.7132481932640076,
+        "duration": 0.4899999797344208,
+        "time": 34.150000152589165,
+        "word": "misty"
+      },
+      {
+        "confidence": 0.2955467998981476,
+        "duration": 0.25999999046325684,
+        "time": 34.69999938964971,
+        "word": "right"
+      }
+    ],
+    [
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 35.71999999404102,
+        "word": "feeler"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 36.08999999880939,
+        "word": "feeler"
+      },
+      {
+        "confidence": 0.9926683902740479,
+        "duration": 0.10999999940395355,
+        "time": 36.599999959470324,
+        "word": "in"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 36.71000003338008,
+        "word": "the"
+      },
+      {
+        "confidence": 0.3468552231788635,
+        "duration": 0.29999998211860657,
+        "time": 36.81999992847591,
+        "word": "amory"
+      },
+      {
+        "confidence": 0.8886234164237976,
+        "duration": 0.3199999928474426,
+        "time": 37.12000000000148,
+        "word": "case"
+      },
+      {
+        "confidence": 0.9548255205154419,
+        "duration": 0.08999999612569809,
+        "time": 37.43999993324428,
+        "word": "they"
+      },
+      {
+        "confidence": 0.9325242042541504,
+        "duration": 0.10999999940395355,
+        "time": 37.52999996662288,
+        "word": "were"
+      },
+      {
+        "confidence": 0.5226381421089172,
+        "duration": 0.22999998927116394,
+        "time": 37.639999980927996,
+        "word": "here"
+      }
+    ],
+    [
+      {
+        "confidence": 0.5898594260215759,
+        "duration": 0.17999999225139618,
+        "time": 38.399999995232584,
+        "word": "any"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6599999666213989,
+        "time": 38.58000000238514,
+        "word": "mistakes"
+      },
+      {
+        "confidence": 0.43525147438049316,
+        "duration": 0.14999999105930328,
+        "time": 39.50000001907444,
+        "word": "here"
+      },
+      {
+        "confidence": 0.9618702530860901,
+        "duration": 0.23999999463558197,
+        "time": 39.649999995232584,
+        "word": "right"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 39.89000000476933,
+        "word": "on"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 39.96999992847538,
+        "word": "that"
+      },
+      {
+        "confidence": 0.9677107930183411,
+        "duration": 0.1899999976158142,
+        "time": 40.62999989509678,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.08999999612569809,
+        "time": 40.81999995231724,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 40.90999986648655,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 41.03999998092747,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 41.149999876023294,
+        "word": "follow"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 41.399999876023294,
+        "word": "up"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 41.55999996185398,
+        "word": "on"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.26999998092651367,
+        "time": 41.679999847413065,
+        "word": "it"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 42.13999988556004,
+        "word": "and"
+      },
+      {
+        "confidence": 0.9854500889778137,
+        "duration": 0.12999999523162842,
+        "time": 42.329999942780496,
+        "word": "you"
+      },
+      {
+        "confidence": 0.7243543863296509,
+        "duration": 0.2800000011920929,
+        "time": 42.460000057221414,
+        "word": "asked"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 42.739999790192606,
+        "word": "me"
+      },
+      {
+        "confidence": 0.7454619407653809,
+        "duration": 0.11999999731779099,
+        "time": 42.839999694825174,
+        "word": "that"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 42.960000057221414,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 43.09999992370701,
+        "word": "can"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.8100000023841858,
+        "time": 43.339999694825174,
+        "word": "guarantee"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 44.42000009536839,
+        "word": "that"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 44.679999847413065,
+        "word": "such"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 45.00999977111912,
+        "word": "cases"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 45.48000003814793,
+        "word": "don't"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 45.69999982833958,
+        "word": "happen"
+      },
+      {
+        "confidence": 0.9911673069000244,
+        "duration": 0.3400000035762787,
+        "time": 45.98000003814793,
+        "word": "again"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 46.38999988556004,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 46.490000267029764,
+        "word": "can"
+      },
+      {
+        "confidence": 0.9593619108200073,
+        "duration": 0.12999999523162842,
+        "time": 46.66999961853123,
+        "word": "give"
+      },
+      {
+        "confidence": 0.7704712748527527,
+        "duration": 0.07000000029802322,
+        "time": 46.79999973297215,
+        "word": "me"
+      },
+      {
+        "confidence": 0.9721508622169495,
+        "duration": 0.08999999612569809,
+        "time": 46.869999427796365,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.41999998688697815,
+        "time": 46.959999580384256,
+        "word": "guarantee"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 47.3799996566782,
+        "word": "you"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.20999999344348907,
+        "time": 47.459999580384256,
+        "word": "that"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.03999999910593033,
+        "time": 47.66999961853123,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 47.709999580384256,
+        "word": "will"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 47.90000011444187,
+        "word": "do"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5999999642372131,
+        "time": 48.07000019073582,
+        "word": "whatever"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 48.66999961853123,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4599999785423279,
+        "time": 48.82000019073582,
+        "word": "can"
+      },
+      {
+        "confidence": 0.8245611190795898,
+        "duration": 0.3199999928474426,
+        "time": 49.50999977111912,
+        "word": "watch"
+      },
+      {
+        "confidence": 0.8352271914482117,
+        "duration": 0.28999999165534973,
+        "time": 49.82999946594334,
+        "word": "you"
+      },
+      {
+        "confidence": 0.7628584504127502,
+        "duration": 0.6899999976158142,
+        "time": 50.360000152588846,
+        "word": "empower"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 51.04999973297215,
+        "word": "the"
+      },
+      {
+        "confidence": 0.9847853183746338,
+        "duration": 0.7899999618530273,
+        "time": 51.15999938964939,
+        "word": "authorities"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 52.79999973297215,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 52.98999931335545,
+        "word": "make"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 53.369999427796365,
+        "word": "their"
+      },
+      {
+        "confidence": 0.9147896766662598,
+        "duration": 0.32999998331069946,
+        "time": 53.529999275208475,
+        "word": "work"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 54.1299996566782,
+        "word": "as"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 54.309999008179666,
+        "word": "effective"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 54.679999847413065,
+        "word": "as"
+      },
+      {
+        "confidence": 0.6645087599754333,
+        "duration": 0.5099999904632568,
+        "time": 54.79000045776463,
+        "word": "possible"
+      },
+      {
+        "confidence": 0.6841492056846619,
+        "duration": 0.38999998569488525,
+        "time": 55.469998855591776,
+        "word": "tube"
+      },
+      {
+        "confidence": 0.9271424412727356,
+        "duration": 0.5399999618530273,
+        "time": 55.860000152588846,
+        "word": "prevented"
+      },
+      {
+        "confidence": 0.8280247449874878,
+        "duration": 0.3100000023841858,
+        "time": 56.82999946594334,
+        "word": "freshly"
+      },
+      {
+        "confidence": 0.5832226872444153,
+        "duration": 0.25,
+        "time": 57.98999931335545,
+        "word": "three"
+      },
+      {
+        "confidence": 0.2713123857975006,
+        "duration": 0.3499999940395355,
+        "time": 58.23999931335545,
+        "word": "clapper"
+      },
+      {
+        "confidence": 0.436517596244812,
+        "duration": 0.23999999463558197,
+        "time": 58.589999694825174,
+        "word": "rent"
+      },
+      {
+        "confidence": 0.8677204847335815,
+        "duration": 0.11999999731779099,
+        "time": 58.82999946594334,
+        "word": "at"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4099999964237213,
+        "time": 58.95000030517674,
+        "word": "somebody"
+      },
+      {
+        "confidence": 0.35823655128479004,
+        "duration": 0.28999999165534973,
+        "time": 59.360000152588846,
+        "word": "user"
+      },
+      {
+        "confidence": 0.6123815178871155,
+        "duration": 0.41999998688697815,
+        "time": 59.64999916076756,
+        "word": "sixteen"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 60.0699992370615,
+        "word": "different"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6399999856948853,
+        "time": 60.37000038147068,
+        "word": "identities"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.429999977350235,
+        "time": 61.00999977111912,
+        "word": "travels"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.35999998450279236,
+        "time": 61.4400000762949,
+        "word": "across"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6200000047683716,
+        "time": 61.79999877929783,
+        "word": "germany"
+      },
+      {
+        "confidence": 0.9846737384796143,
+        "duration": 0.29999998211860657,
+        "time": 62.41999961853123,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 63.00999977111912,
+        "word": "across"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5399999618530273,
+        "time": 63.72999908447361,
+        "word": "europe"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.41999998688697815,
+        "time": 65.37999870300388,
+        "word": "because"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 65.79999877929782,
+        "word": "so"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 65.95000030517673,
+        "word": "many"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5099999904632568,
+        "time": 66.16999961853122,
+        "word": "authorities"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 66.67999984741306,
+        "word": "have"
+      },
+      {
+        "confidence": 0.5205844044685364,
+        "duration": 0.2199999988079071,
+        "time": 67.08999969482517,
+        "word": "it's"
+      },
+      {
+        "confidence": 0.9814275503158569,
+        "duration": 0.5600000023841858,
+        "time": 67.30999900817966,
+        "word": "failed"
+      },
+      {
+        "confidence": 0.9922158122062683,
+        "duration": 0.14999999105930328,
+        "time": 68.11000015258884,
+        "word": "and"
+      },
+      {
+        "confidence": 0.44058099389076233,
+        "duration": 0.1599999964237213,
+        "time": 68.25999977111911,
+        "word": "they're"
+      },
+      {
+        "confidence": 0.9983484745025635,
+        "duration": 0.2800000011920929,
+        "time": 68.41999961853122,
+        "word": "such"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 69.42999984741306,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.41999998688697815,
+        "time": 69.57999946594333,
+        "word": "sleaze"
+      },
+      {
+        "confidence": 0.609016478061676,
+        "duration": 0.08999999612569809,
+        "time": 69.99999954223728,
+        "word": "have"
+      },
+      {
+        "confidence": 0.7974410057067871,
+        "duration": 0.9199999570846558,
+        "time": 70.08999969482517,
+        "word": "responsibilities"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 71.33999969482517,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3799999952316284,
+        "time": 71.4799990844736,
+        "word": "question"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 71.86000015258884,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.08999999612569809,
+        "time": 72.02999832153415,
+        "word": "do"
+      },
+      {
+        "confidence": 0.891995370388031,
+        "duration": 0.11999999731779099,
+        "time": 72.11999847412204,
+        "word": "you"
+      },
+      {
+        "confidence": 0.8688799738883972,
+        "duration": 0.3199999928474426,
+        "time": 72.23999740600681,
+        "word": "think"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 72.65000106811618,
+        "word": "with"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 72.90000106811618,
+        "word": "you"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 73.16999771118259,
+        "word": "as"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07000000029802322,
+        "time": 73.34999801635837,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5999999642372131,
+        "time": 73.41999771118259,
+        "word": "chancellor"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 74.70999862670993,
+        "word": "in"
+      },
+      {
+        "confidence": 0.9490660429000854,
+        "duration": 0.23999999463558197,
+        "time": 75.0699992370615,
+        "word": "our"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5299999713897705,
+        "time": 75.31000091552829,
+        "word": "surveillance"
+      },
+      {
+        "confidence": 0.7845708131790161,
+        "duration": 0.14000000059604645,
+        "time": 75.83999969482517,
+        "word": "there"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 75.9799990844736,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 76.15999938964939,
+        "word": "that"
+      },
+      {
+        "confidence": 0.9887220859527588,
+        "duration": 0.12999999523162842,
+        "time": 76.3199992370615,
+        "word": "i'm"
+      },
+      {
+        "confidence": 0.7712053060531616,
+        "duration": 0.44999998807907104,
+        "time": 76.45000030517673,
+        "word": "countin"
+      },
+      {
+        "confidence": 0.9508345723152161,
+        "duration": 0.550000011920929,
+        "time": 76.89999725341892,
+        "word": "services"
+      },
+      {
+        "confidence": 0.45905449986457825,
+        "duration": 0.20999999344348907,
+        "time": 77.45000030517673,
+        "word": "ally"
+      },
+      {
+        "confidence": 0.44453588128089905,
+        "duration": 0.5,
+        "time": 77.65999938964939,
+        "word": "forager"
+      },
+      {
+        "confidence": 0.4836944043636322,
+        "duration": 0.2800000011920929,
+        "time": 78.15999938964939,
+        "word": "youth"
+      },
+      {
+        "confidence": 0.7080100178718567,
+        "duration": 0.1599999964237213,
+        "time": 78.43999816894626,
+        "word": "will"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 78.59999801635837,
+        "word": "work"
+      },
+      {
+        "confidence": 0.8607085943222046,
+        "duration": 0.17999999225139618,
+        "time": 78.84999801635837,
+        "word": "not"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6599999666213989,
+        "time": 79.02999832153415,
+        "word": "properly"
+      },
+      {
+        "confidence": 0.9052096009254456,
+        "duration": 0.1599999964237213,
+        "time": 80.16999771118259,
+        "word": "where"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 80.3299975585947,
+        "word": "do"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 80.40999938964939,
+        "word": "you"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 80.52000000000095,
+        "word": "think"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 80.8199992370615,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 80.92999984741306,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 81.11999847412204,
+        "word": "to"
+      },
+      {
+        "confidence": 0.9880443215370178,
+        "duration": 0.1899999976158142,
+        "time": 81.2200007629404,
+        "word": "take"
+      },
+      {
+        "confidence": 0.8509346842765808,
+        "duration": 0.07000000029802322,
+        "time": 81.40999938964939,
+        "word": "your"
+      },
+      {
+        "confidence": 0.9555389881134033,
+        "duration": 0.25,
+        "time": 81.4799990844736,
+        "word": "new"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6899999976158142,
+        "time": 81.7299990844736,
+        "word": "measures"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 83.25999786377048,
+        "word": "face"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5199999809265137,
+        "time": 83.63000061035251,
+        "word": "recognition"
+      },
+      {
+        "confidence": 0.7137916088104248,
+        "duration": 0.1599999964237213,
+        "time": 84.14999725341892,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5199999809265137,
+        "time": 84.30999710083103,
+        "word": "surveillance"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 84.8299975585947,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 85.00999786377048,
+        "word": "so"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 85.2299990844736,
+        "word": "on"
+      }
+    ],
+    [
+      {
+        "confidence": 0.2626897990703583,
+        "duration": 0.3799999952316284,
+        "time": 86.38999999881509,
+        "word": "that's"
+      },
+      {
+        "confidence": 0.5762914419174194,
+        "duration": 0.14000000059604645,
+        "time": 86.76999996424439,
+        "word": "right"
+      },
+      {
+        "confidence": 0.602595329284668,
+        "duration": 0.07999999821186066,
+        "time": 86.91000000954392,
+        "word": "on"
+      },
+      {
+        "confidence": 0.749647319316864,
+        "duration": 0.05999999865889549,
+        "time": 86.98999999285462,
+        "word": "the"
+      },
+      {
+        "confidence": 0.9346775412559509,
+        "duration": 0.35999998450279236,
+        "time": 87.0499999952388,
+        "word": "quivered"
+      },
+      {
+        "confidence": 0.8567081093788147,
+        "duration": 0.1899999976158142,
+        "time": 87.43999998093369,
+        "word": "even"
+      },
+      {
+        "confidence": 0.7294855117797852,
+        "duration": 0.25999999046325684,
+        "time": 87.62999991894486,
+        "word": "miles"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 87.88999990940812,
+        "word": "yes"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 88.22999994278672,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 88.53999988556626,
+        "word": "think"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 89.22999994278672,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.26999998092651367,
+        "time": 89.39000002861741,
+        "word": "need"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 89.66000000954392,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 89.76999990463975,
+        "word": "take"
+      },
+      {
+        "confidence": 0.9826357960700989,
+        "duration": 0.26999998092651367,
+        "time": 90.0999998283458,
+        "word": "all"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6200000047683716,
+        "time": 90.36999980927231,
+        "word": "preventive"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6599999666213989,
+        "time": 91.01999990463975,
+        "word": "actions"
+      }
+    ],
+    [
+      {
+        "confidence": 0.5302155017852783,
+        "duration": 0.23999999463558197,
+        "time": 92.18999998808923,
+        "word": "a"
+      },
+      {
+        "confidence": 0.2519070506095886,
+        "duration": 0.12999999523162842,
+        "time": 92.45999999881806,
+        "word": "big"
+      },
+      {
+        "confidence": 0.4876885712146759,
+        "duration": 0.17000000178813934,
+        "time": 92.58999996424737,
+        "word": "step"
+      },
+      {
+        "confidence": 0.7460179924964905,
+        "duration": 0.07999999821186066,
+        "time": 92.75999998093667,
+        "word": "of"
+      },
+      {
+        "confidence": 0.9916741847991943,
+        "duration": 0.05999999865889549,
+        "time": 92.83999996424737,
+        "word": "the"
+      },
+      {
+        "confidence": 0.7004510760307312,
+        "duration": 0.3100000023841858,
+        "time": 92.89999996663155,
+        "word": "bought"
+      },
+      {
+        "confidence": 0.7063166499137878,
+        "duration": 0.25,
+        "time": 93.24000000001016,
+        "word": "in"
+      },
+      {
+        "confidence": 0.7283875942230225,
+        "duration": 0.08999999612569809,
+        "time": 93.83999990464272,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.26999998092651367,
+        "time": 93.92999993802133,
+        "word": "state"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 94.20000003815713,
+        "word": "covered"
+      },
+      {
+        "confidence": 0.8969389796257019,
+        "duration": 0.11999999731779099,
+        "time": 94.46000002862039,
+        "word": "by"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.08999999612569809,
+        "time": 94.57999991417947,
+        "word": "the"
+      },
+      {
+        "confidence": 0.9746915102005005,
+        "duration": 0.1899999976158142,
+        "time": 94.66999982834878,
+        "word": "rule"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 94.85999988556924,
+        "word": "of"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.26999998092651367,
+        "time": 94.97000001908364,
+        "word": "lot"
+      },
+      {
+        "confidence": 0.9857297539710999,
+        "duration": 0.14999999105930328,
+        "time": 95.55999993325295,
+        "word": "we"
+      },
+      {
+        "confidence": 0.9857297539710999,
+        "duration": 0.2199999988079071,
+        "time": 95.71000002862039,
+        "word": "need"
+      }
+    ],
+    [
+      {
+        "confidence": 1,
+        "duration": 0.7599999904632568,
+        "time": 96.5800000000125,
+        "word": "detective"
+      },
+      {
+        "confidence": 0.7883641123771667,
+        "duration": 0.4099999964237213,
+        "time": 97.33999999047576,
+        "word": "cream"
+      },
+      {
+        "confidence": 0.9990755319595337,
+        "duration": 0.25,
+        "time": 97.82000000954925,
+        "word": "and"
+      },
+      {
+        "confidence": 0.942091166973114,
+        "duration": 0.28999999165534973,
+        "time": 98.07000000954925,
+        "word": "find"
+      },
+      {
+        "confidence": 0.34592583775520325,
+        "duration": 0.10999999940395355,
+        "time": 98.35999997140227,
+        "word": "his"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 98.46999998570739,
+        "word": "people"
+      },
+      {
+        "confidence": 0.8910797238349915,
+        "duration": 0.3199999928474426,
+        "time": 98.7600000667697,
+        "word": "early"
+      },
+      {
+        "confidence": 0.49694421887397766,
+        "duration": 0.17999999225139618,
+        "time": 99.0800000000125,
+        "word": "it's"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 99.25999982835113,
+        "word": "and"
+      },
+      {
+        "confidence": 0.9596088528633118,
+        "duration": 0.3999999761581421,
+        "time": 99.62999995232879,
+        "word": "if"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.38999998569488525,
+        "time": 100.06000001908599,
+        "word": "possible"
+      },
+      {
+        "confidence": 0.4413142204284668,
+        "duration": 0.6599999666213989,
+        "time": 100.44999988557159,
+        "word": "department"
+      },
+      {
+        "confidence": 0.3810151517391205,
+        "duration": 0.25999999046325684,
+        "time": 101.1099997329837,
+        "word": "gets"
+      },
+      {
+        "confidence": 0.5044463872909546,
+        "duration": 0.26999998092651367,
+        "time": 101.36999996186553,
+        "word": "first"
+      },
+      {
+        "confidence": 0.4473567605018616,
+        "duration": 0.11999999731779099,
+        "time": 101.63999994279204,
+        "word": "bid"
+      },
+      {
+        "confidence": 0.3273894786834717,
+        "duration": 0.07999999821186066,
+        "time": 101.75999982835113,
+        "word": "on"
+      },
+      {
+        "confidence": 0.8857900500297546,
+        "duration": 0.2199999988079071,
+        "time": 101.83999975205718,
+        "word": "my"
+      },
+      {
+        "confidence": 0.9869345426559448,
+        "duration": 0.22999998927116394,
+        "time": 102.79999979020415,
+        "word": "if"
+      },
+      {
+        "confidence": 0.9707793593406677,
+        "duration": 0.3400000035762787,
+        "time": 103.16999967576324,
+        "word": "somebody"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07000000029802322,
+        "time": 103.50999982835113,
+        "word": "in"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 103.5800000000125,
+        "word": "this"
+      }
+    ],
+    [
+      {
+        "confidence": 0.5673484206199646,
+        "duration": 0.14999999105930328,
+        "time": 104.95999999822861,
+        "word": "some"
+      },
+      {
+        "confidence": 0.5460590720176697,
+        "duration": 0.08999999612569809,
+        "time": 105.10999998928791,
+        "word": "are"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 105.19999999286419,
+        "word": "you"
+      },
+      {
+        "confidence": 0.5107405185699463,
+        "duration": 0.26999998092651367,
+        "time": 105.31999999763256,
+        "word": "try"
+      },
+      {
+        "confidence": 0.36237725615501404,
+        "duration": 0.07000000029802322,
+        "time": 105.58999997855908,
+        "word": "and"
+      },
+      {
+        "confidence": 0.5461215376853943,
+        "duration": 0.6800000071525574,
+        "time": 105.65999997140652,
+        "word": "stuart's"
+      },
+      {
+        "confidence": 0.9978110790252686,
+        "duration": 0.6899999976158142,
+        "time": 106.33999991895443,
+        "word": "disguised"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 107.0299998569656,
+        "word": "his"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.04999999701976776,
+        "time": 107.18999994279629,
+        "word": "or"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 107.23999989511258,
+        "word": "her"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.8700000047683716,
+        "time": 107.43999994279629,
+        "word": "identity"
+      }
+    ],
+    [
+      {
+        "confidence": 0.9089030027389526,
+        "duration": 0.32999998331069946,
+        "time": 108.82000000180682,
+        "word": "after"
+      },
+      {
+        "confidence": 0.5996696352958679,
+        "duration": 0.20999999344348907,
+        "time": 109.71999993326148,
+        "word": "all"
+      },
+      {
+        "confidence": 0.4714198112487793,
+        "duration": 0.09999999403953552,
+        "time": 109.92999997140845,
+        "word": "i've"
+      },
+      {
+        "confidence": 0.5920021533966064,
+        "duration": 0.11999999731779099,
+        "time": 110.02999999525031,
+        "word": "got"
+      },
+      {
+        "confidence": 0.8109228610992432,
+        "duration": 0.09999999403953552,
+        "time": 110.56999995710333,
+        "word": "the"
+      },
+      {
+        "confidence": 0.5670546889305115,
+        "duration": 0.4599999785423279,
+        "time": 110.66999998094519,
+        "word": "plant"
+      },
+      {
+        "confidence": 0.6636680364608765,
+        "duration": 0.17000000178813934,
+        "time": 111.26999988557776,
+        "word": "them"
+      },
+      {
+        "confidence": 0.9400927424430847,
+        "duration": 0.1599999964237213,
+        "time": 111.4399999618717,
+        "word": "was"
+      },
+      {
+        "confidence": 0.7161263227462769,
+        "duration": 0.3999999761581421,
+        "time": 111.64000000955542,
+        "word": "plots"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 112.03999986650427,
+        "word": "terrorist"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.47999998927116394,
+        "time": 112.5099998951145,
+        "word": "attacks"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 112.98999967576941,
+        "word": "who"
+      },
+      {
+        "confidence": 0.7960432767868042,
+        "duration": 0.35999998450279236,
+        "time": 113.15999975206336,
+        "word": "commits"
+      },
+      {
+        "confidence": 0.5592767000198364,
+        "duration": 0.11999999731779099,
+        "time": 113.51999988557776,
+        "word": "going"
+      },
+      {
+        "confidence": 0.6157114505767822,
+        "duration": 0.1599999964237213,
+        "time": 113.63999977113684,
+        "word": "to"
+      },
+      {
+        "confidence": 0.5383405089378357,
+        "duration": 0.22999998927116394,
+        "time": 113.80000009538611,
+        "word": "add"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 114.0300001144596,
+        "word": "has"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 114.36000003816565,
+        "word": "to"
+      },
+      {
+        "confidence": 0.49534544348716736,
+        "duration": 0.4099999964237213,
+        "time": 114.45999994279822,
+        "word": "relieve"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5,
+        "time": 114.86999979021033,
+        "word": "germany"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 115.40000000001868,
+        "word": "as"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 115.8299998283573,
+        "word": "fast"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 116.13999977113684,
+        "word": "as"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5,
+        "time": 116.27999963762244,
+        "word": "possible"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 117.05999984743079,
+        "word": "this"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 117.29999961854895,
+        "word": "takes"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 117.58999958040198,
+        "word": "us"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 117.74000015260657,
+        "word": "to"
+      },
+      {
+        "confidence": 0.8666034936904907,
+        "duration": 0.32999998331069946,
+        "time": 117.88999977113684,
+        "word": "propose"
+      },
+      {
+        "confidence": 0.9509181380271912,
+        "duration": 0.17999999225139618,
+        "time": 118.2199996948429,
+        "word": "about"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 118.40000000001868,
+        "word": "my"
+      },
+      {
+        "confidence": 0.8006927371025085,
+        "duration": 0.26999998092651367,
+        "time": 118.629999542255,
+        "word": "past"
+      },
+      {
+        "confidence": 0.3945803940296173,
+        "duration": 0.4899999797344208,
+        "time": 118.90000000001868,
+        "word": "bastards"
+      },
+      {
+        "confidence": 0.271596759557724,
+        "duration": 0.09999999403953552,
+        "time": 120.28999938966712,
+        "word": "i'm"
+      },
+      {
+        "confidence": 0.4943118691444397,
+        "duration": 0.17000000178813934,
+        "time": 120.38999977113684,
+        "word": "not"
+      },
+      {
+        "confidence": 0.3242231607437134,
+        "duration": 0.2800000011920929,
+        "time": 120.55999984743079,
+        "word": "letting"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3799999952316284,
+        "time": 120.83999958040198,
+        "word": "anybody"
+      },
+      {
+        "confidence": 0.9906101822853088,
+        "duration": 0.26999998092651367,
+        "time": 121.2199996948429,
+        "word": "without"
+      },
+      {
+        "confidence": 0.9148492217063904,
+        "duration": 0.4399999976158142,
+        "time": 121.49000015260657,
+        "word": "documents"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.26999998092651367,
+        "time": 121.95999946596106,
+        "word": "into"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 122.22999992372473,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4899999797344208,
+        "time": 122.33999958040198,
+        "word": "country"
+      },
+      {
+        "confidence": 0.3147626221179962,
+        "duration": 0.4699999988079071,
+        "time": 123.00999965669592,
+        "word": "yes"
+      },
+      {
+        "confidence": 0.7357094883918762,
+        "duration": 0.3700000047683716,
+        "time": 123.98999919893225,
+        "word": "stick"
+      }
+    ],
+    [
+      {
+        "confidence": 0.9921007752418518,
+        "duration": 0.22999998927116394,
+        "time": 124.70999999943079,
+        "word": "get"
+      },
+      {
+        "confidence": 0.7983461022377014,
+        "duration": 0.12999999523162842,
+        "time": 124.94000000360312,
+        "word": "that"
+      },
+      {
+        "confidence": 0.7117568850517273,
+        "duration": 0.03999999910593033,
+        "time": 125.06999999883475,
+        "word": "i"
+      },
+      {
+        "confidence": 0.6151395440101624,
+        "duration": 0.29999998211860657,
+        "time": 125.37999997141661,
+        "word": "guess"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.08999999612569809,
+        "time": 125.83000001910032,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 125.91999993326964,
+        "word": "don't"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 126.22000000479521,
+        "word": "think"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 126.43999991419615,
+        "word": "this"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 126.68999991419615,
+        "word": "is"
+      },
+      {
+        "confidence": 0.9840713143348694,
+        "duration": 0.4599999785423279,
+        "time": 127.1999999046594,
+        "word": "possible"
+      },
+      {
+        "confidence": 0.8827910423278809,
+        "duration": 0.1599999964237213,
+        "time": 127.68999991419615,
+        "word": "if"
+      },
+      {
+        "confidence": 0.7677971720695496,
+        "duration": 0.1899999976158142,
+        "time": 127.85000000002684,
+        "word": "there's"
+      },
+      {
+        "confidence": 0.9132118821144104,
+        "duration": 0.04999999701976776,
+        "time": 128.03999981882873,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 128.0900000095636,
+        "word": "person"
+      },
+      {
+        "confidence": 0.8358759880065918,
+        "duration": 0.25,
+        "time": 128.39999995234314,
+        "word": "without"
+      },
+      {
+        "confidence": 0.9911473393440247,
+        "duration": 0.5600000023841858,
+        "time": 128.64999971392456,
+        "word": "papers"
+      },
+      {
+        "confidence": 0.794123649597168,
+        "duration": 0.1599999964237213,
+        "time": 129.23999986651245,
+        "word": "we"
+      },
+      {
+        "confidence": 0.794123649597168,
+        "duration": 0.22999998927116394,
+        "time": 129.39999971392456,
+        "word": "need"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 129.62999973299804,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5600000023841858,
+        "time": 129.75000009539428,
+        "word": "establish"
+      },
+      {
+        "confidence": 0.992438018321991,
+        "duration": 0.17000000178813934,
+        "time": 130.31000003817383,
+        "word": "who"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 130.4799996376306,
+        "word": "that"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 130.66999969485107,
+        "word": "person"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.429999977350235,
+        "time": 131.0400000572473,
+        "word": "is"
+      }
+    ],
+    [
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 131.96000000002496,
+        "word": "this"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 132.11999999644868,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 132.3599999761831,
+        "word": "why"
+      },
+      {
+        "confidence": 0.717285692691803,
+        "duration": 0.1899999976158142,
+        "time": 132.55999996426218,
+        "word": "we"
+      },
+      {
+        "confidence": 0.38811376690864563,
+        "duration": 0.28999999165534973,
+        "time": 132.749999961878,
+        "word": "leave"
+      },
+      {
+        "confidence": 0.9887446165084839,
+        "duration": 0.4699999988079071,
+        "time": 133.48999997141473,
+        "word": "suggests"
+      },
+      {
+        "confidence": 0.9034650921821594,
+        "duration": 0.07000000029802322,
+        "time": 133.96000000002496,
+        "word": "a"
+      },
+      {
+        "confidence": 0.7088868021965027,
+        "duration": 0.47999998927116394,
+        "time": 134.02999993326776,
+        "word": "cheer"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 134.78999992373102,
+        "word": "read"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 135.07999988558404,
+        "word": "out"
+      },
+      {
+        "confidence": 0.9609504342079163,
+        "duration": 0.6299999952316284,
+        "time": 135.35999985697381,
+        "word": "people's"
+      },
+      {
+        "confidence": 0.9704391360282898,
+        "duration": 0.75,
+        "time": 136.0199999428045,
+        "word": "cellphones"
+      },
+      {
+        "confidence": 0.9875801205635071,
+        "duration": 0.20999999344348907,
+        "time": 137.65000005724542,
+        "word": "if"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6699999570846558,
+        "time": 137.8600000953924,
+        "word": "somebody"
+      },
+      {
+        "confidence": 0.9832338690757751,
+        "duration": 0.20999999344348907,
+        "time": 138.52999969484918,
+        "word": "is"
+      },
+      {
+        "confidence": 0.6561872959136963,
+        "duration": 0.29999998211860657,
+        "time": 138.73999973299615,
+        "word": "applying"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 139.03999992373102,
+        "word": "for"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4399999976158142,
+        "time": 139.17000003817193,
+        "word": "asylum"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.35999998450279236,
+        "time": 139.60999961855524,
+        "word": "germany"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 139.9700002289068,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.44999998807907104,
+        "time": 140.07999988558404,
+        "word": "cannot"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 140.76999946596735,
+        "word": "just"
+      },
+      {
+        "confidence": 0.6238458752632141,
+        "duration": 0.19999998807907104,
+        "time": 141.92999931337945,
+        "word": "if"
+      },
+      {
+        "confidence": 0.5409504771232605,
+        "duration": 0.07999999821186066,
+        "time": 142.1300000763189,
+        "word": "you"
+      },
+      {
+        "confidence": 0.8731370568275452,
+        "duration": 0.3499999940395355,
+        "time": 142.21000000002496,
+        "word": "close"
+      },
+      {
+        "confidence": 0.8953666090965271,
+        "duration": 0.09999999403953552,
+        "time": 142.55999942782037,
+        "word": "the"
+      },
+      {
+        "confidence": 0.9869049191474915,
+        "duration": 0.2199999988079071,
+        "time": 142.6599998092901,
+        "word": "door"
+      },
+      {
+        "confidence": 0.9869049191474915,
+        "duration": 0.17999999225139618,
+        "time": 142.8800000763189,
+        "word": "it"
+      },
+      {
+        "confidence": 0.753368079662323,
+        "duration": 0.35999998450279236,
+        "time": 143.0999993896734,
+        "word": "was"
+      },
+      {
+        "confidence": 0.6711814403533936,
+        "duration": 0.17000000178813934,
+        "time": 143.82999988558404,
+        "word": "too"
+      },
+      {
+        "confidence": 0.9897370934486389,
+        "duration": 0.20999999344348907,
+        "time": 143.999999961878,
+        "word": "that"
+      },
+      {
+        "confidence": 0.3277397155761719,
+        "duration": 0.09999999403953552,
+        "time": 144.21000000002496,
+        "word": "would"
+      },
+      {
+        "confidence": 0.7992066144943237,
+        "duration": 0.10999999940395355,
+        "time": 144.30999942782037,
+        "word": "to"
+      },
+      {
+        "confidence": 0.922419011592865,
+        "duration": 0.3400000035762787,
+        "time": 144.42000003817193,
+        "word": "measure"
+      },
+      {
+        "confidence": 0.9506889581680298,
+        "duration": 0.1599999964237213,
+        "time": 144.80000015261285,
+        "word": "but"
+      },
+      {
+        "confidence": 0.9506889581680298,
+        "duration": 0.08999999612569809,
+        "time": 144.96000000002496,
+        "word": "we"
+      },
+      {
+        "confidence": 0.7860358357429504,
+        "duration": 0.14000000059604645,
+        "time": 145.05000015261285,
+        "word": "have"
+      },
+      {
+        "confidence": 0.7932087779045105,
+        "duration": 0.07000000029802322,
+        "time": 145.1899995422613,
+        "word": "an"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.8499999642372131,
+        "time": 145.2599992370855,
+        "word": "obligation"
+      },
+      {
+        "confidence": 0.7549245357513428,
+        "duration": 0.5399999618530273,
+        "time": 146.23999973299615,
+        "word": "tube"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6200000047683716,
+        "time": 146.8800000763189,
+        "word": "establish"
+      },
+      {
+        "confidence": 0.614134669303894,
+        "duration": 0.14000000059604645,
+        "time": 147.499999961878,
+        "word": "well"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 147.63999935152643,
+        "word": "they"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 147.8800000763189,
+        "word": "are"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 148.2200002289068,
+        "word": "in"
+      },
+      {
+        "confidence": 0.9420367479324341,
+        "duration": 0.11999999731779099,
+        "time": 148.36999984743707,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 148.48999877932184,
+        "word": "pub"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 149.0999993896734,
+        "word": "for"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3999999761581421,
+        "time": 149.23999877932184,
+        "word": "example"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 149.64000030520074,
+        "word": "by"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4099999964237213,
+        "time": 149.76999946596735,
+        "word": "using"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 150.17999931337945,
+        "word": "data"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 150.55000015261285,
+        "word": "on"
+      },
+      {
+        "confidence": 0.5190760493278503,
+        "duration": 0.32999998331069946,
+        "time": 150.73000045778863,
+        "word": "them"
+      },
+      {
+        "confidence": 0.5190760493278503,
+        "duration": 0.09999999403953552,
+        "time": 151.0600003814947,
+        "word": "i"
+      },
+      {
+        "confidence": 0.5081467032432556,
+        "duration": 0.3999999761581421,
+        "time": 151.15999885561578,
+        "word": "fancy"
+      },
+      {
+        "confidence": 0.5239863991737366,
+        "duration": 0.09999999403953552,
+        "time": 152.0600003814947,
+        "word": "a"
+      },
+      {
+        "confidence": 0.5239863991737366,
+        "duration": 0.38999998569488525,
+        "time": 152.15999885561578,
+        "word": "slip"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 152.7599992370855,
+        "word": "in"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 152.9399995422613,
+        "word": "the"
+      },
+      {
+        "confidence": 0.7674537897109985,
+        "duration": 0.17999999225139618,
+        "time": 153.0699987030279,
+        "word": "i'm"
+      },
+      {
+        "confidence": 0.7135013937950134,
+        "duration": 0.5399999618530273,
+        "time": 153.24999900820367,
+        "word": "rico's"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 153.78999992373102,
+        "word": "many"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3999999761581421,
+        "time": 154.01999946596735,
+        "word": "mistakes"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 154.41999908449762,
+        "word": "were"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 154.52999969484918,
+        "word": "made"
+      },
+      {
+        "confidence": 0.9598028063774109,
+        "duration": 0.08999999612569809,
+        "time": 154.72999855044,
+        "word": "in"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 154.8199987030279,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 154.89999862673395,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 155.0600003814947,
+        "word": "to"
+      },
+      {
+        "confidence": 0.9523053169250488,
+        "duration": 0.3999999761581421,
+        "time": 155.22999855044,
+        "word": "learn"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 155.6300000763189,
+        "word": "from"
+      },
+      {
+        "confidence": 0.5712030529975891,
+        "duration": 0.35999998450279236,
+        "time": 155.90999885561578,
+        "word": "landing"
+      },
+      {
+        "confidence": 0.9766919016838074,
+        "duration": 0.17999999225139618,
+        "time": 156.26999946596735,
+        "word": "on"
+      },
+      {
+        "confidence": 0.9346250891685486,
+        "duration": 0.07000000029802322,
+        "time": 156.44999977114313,
+        "word": "the"
+      },
+      {
+        "confidence": 0.9143797755241394,
+        "duration": 0.25999999046325684,
+        "time": 156.91999908449762,
+        "word": "now"
+      },
+      {
+        "confidence": 0.9433101415634155,
+        "duration": 0.3999999761581421,
+        "time": 157.17999931337945,
+        "word": "after"
+      },
+      {
+        "confidence": 0.5396432876586914,
+        "duration": 0.23999999463558197,
+        "time": 157.57999893190973,
+        "word": "here"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 158.2599992370855,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 158.41999908449762,
+        "word": "be"
+      },
+      {
+        "confidence": 0.4729737937450409,
+        "duration": 0.3100000023841858,
+        "time": 158.51999946596735,
+        "word": "bloody"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.7999999523162842,
+        "time": 158.82999893190973,
+        "word": "fingerprinted"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 159.82999893190973,
+        "word": "it's"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 160.05000015261285,
+        "word": "not"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4099999964237213,
+        "time": 160.33999916079156,
+        "word": "possible"
+      },
+      {
+        "confidence": 0.8635807633399963,
+        "duration": 0.20999999344348907,
+        "time": 160.74999900820367,
+        "word": "any"
+      },
+      {
+        "confidence": 0.8635807633399963,
+        "duration": 0.14000000059604645,
+        "time": 160.96000000002496,
+        "word": "more"
+      },
+      {
+        "confidence": 0.861561119556427,
+        "duration": 0.14000000059604645,
+        "time": 161.0999993896734,
+        "word": "it"
+      },
+      {
+        "confidence": 0.5609992146492004,
+        "duration": 0.12999999523162842,
+        "time": 161.23999877932184,
+        "word": "to"
+      },
+      {
+        "confidence": 0.5946495532989502,
+        "duration": 0.14999999105930328,
+        "time": 161.36999984743707,
+        "word": "you"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5899999737739563,
+        "time": 161.51999946596735,
+        "word": "sixteen"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 162.10999961855524,
+        "word": "hundred"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4399999976158142,
+        "time": 162.4399995422613,
+        "word": "different"
+      },
+      {
+        "confidence": 1,
+        "duration": 1.059999942779541,
+        "time": 162.90999885561578,
+        "word": "identities"
+      },
+      {
+        "confidence": 0.9295483231544495,
+        "duration": 0.35999998450279236,
+        "time": 165.05000015261285,
+        "word": "woodland"
+      },
+      {
+        "confidence": 0.710161566734314,
+        "duration": 0.1599999964237213,
+        "time": 165.41000076296442,
+        "word": "on"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 165.71999832155817,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 166.98999877932184,
+        "word": "anti"
+      },
+      {
+        "confidence": 0.8203737139701843,
+        "duration": 0.4099999964237213,
+        "time": 167.23999877932184,
+        "word": "terror"
+      },
+      {
+        "confidence": 0.9868934154510498,
+        "duration": 0.5799999833106995,
+        "time": 167.64999862673395,
+        "word": "centre"
+      },
+      {
+        "confidence": 0.5108530521392822,
+        "duration": 0.10999999940395355,
+        "time": 168.3499993896734,
+        "word": "of"
+      },
+      {
+        "confidence": 0.6616764068603516,
+        "duration": 0.12999999523162842,
+        "time": 168.46000000002496,
+        "word": "the"
+      },
+      {
+        "confidence": 0.9789947271347046,
+        "duration": 0.25999999046325684,
+        "time": 168.5900010681402,
+        "word": "mother"
+      },
+      {
+        "confidence": 0.7261179089546204,
+        "duration": 0.1599999964237213,
+        "time": 169.05999847414606,
+        "word": "of"
+      },
+      {
+        "confidence": 0.7376904487609863,
+        "duration": 0.07999999821186066,
+        "time": 169.21999832155817,
+        "word": "the"
+      },
+      {
+        "confidence": 0.7376904487609863,
+        "duration": 0.25999999046325684,
+        "time": 169.30000015261285,
+        "word": "federal"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3999999761581421,
+        "time": 169.55999847414606,
+        "word": "government"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 169.96000000002496,
+        "word": "has"
+      },
+      {
+        "confidence": 0.9171062111854553,
+        "duration": 0.17000000178813934,
+        "time": 170.1999978637945,
+        "word": "to"
+      },
+      {
+        "confidence": 0.709547758102417,
+        "duration": 0.05999999865889549,
+        "time": 170.73999877932184,
+        "word": "be"
+      },
+      {
+        "confidence": 0.3389657139778137,
+        "duration": 0.23999999463558197,
+        "time": 170.80000015261285,
+        "word": "fine"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 171.03999801638238,
+        "word": "that"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5299999713897705,
+        "time": 171.2599992370855,
+        "word": "case"
+      },
+      {
+        "confidence": 0.41353392601013184,
+        "duration": 0.3999999761581421,
+        "time": 171.98000045778863,
+        "word": "ultor"
+      },
+      {
+        "confidence": 0.7809979319572449,
+        "duration": 0.1899999976158142,
+        "time": 172.5000009155523,
+        "word": "that's"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.26999998092651367,
+        "time": 172.8499993896734,
+        "word": "how"
+      },
+      {
+        "confidence": 0.9889068007469177,
+        "duration": 0.22999998927116394,
+        "time": 173.11999984743707,
+        "word": "to"
+      },
+      {
+        "confidence": 0.9978610873222351,
+        "duration": 0.8100000023841858,
+        "time": 173.3499993896734,
+        "word": "categorise"
+      },
+      {
+        "confidence": 0.45892658829689026,
+        "duration": 0.3999999761581421,
+        "time": 174.16000076296442,
+        "word": "summerlee"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.44999998807907104,
+        "time": 174.61999984743707,
+        "word": "potential"
+      },
+      {
+        "confidence": 0.8795956969261169,
+        "duration": 0.8399999737739563,
+        "time": 175.07000061037652,
+        "word": "perpetrators"
+      },
+      {
+        "confidence": 0.7994334101676941,
+        "duration": 0.2800000011920929,
+        "time": 176.0199975586187,
+        "word": "after"
+      },
+      {
+        "confidence": 0.8898636102676392,
+        "duration": 0.11999999731779099,
+        "time": 176.86999984743707,
+        "word": "a"
+      },
+      {
+        "confidence": 0.8981350064277649,
+        "duration": 0.29999998211860657,
+        "time": 176.98999877932184,
+        "word": "prison"
+      },
+      {
+        "confidence": 0.7089337706565857,
+        "duration": 0.09999999403953552,
+        "time": 177.28999801638238,
+        "word": "i"
+      },
+      {
+        "confidence": 0.3988402187824249,
+        "duration": 0.5199999809265137,
+        "time": 177.39000030520074,
+        "word": "calmly"
+      },
+      {
+        "confidence": 0.9932823181152344,
+        "duration": 0.32999998331069946,
+        "time": 178.14999862673395,
+        "word": "should"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.38999998569488525,
+        "time": 178.48000045778863,
+        "word": "long"
+      },
+      {
+        "confidence": 0.9836979508399963,
+        "duration": 0.17999999225139618,
+        "time": 178.86999984743707,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 179.05000015261285,
+        "word": "been"
+      },
+      {
+        "confidence": 0.9892032742500305,
+        "duration": 0.10999999940395355,
+        "time": 179.23999877932184,
+        "word": "in"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 179.3499993896734,
+        "word": "detention"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.47999998927116394,
+        "time": 179.82000061037652,
+        "word": "awaiting"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.85999995470047,
+        "time": 180.73000045778863,
+        "word": "deportation"
+      },
+      {
+        "confidence": 0.28990381956100464,
+        "duration": 0.12999999523162842,
+        "time": 181.58999725344293,
+        "word": "on"
+      },
+      {
+        "confidence": 0.8089502453804016,
+        "duration": 0.4599999785423279,
+        "time": 182.49999710085504,
+        "word": "fire"
+      }
+    ],
+    [
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 183.1699999999784,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.38999998569488525,
+        "time": 183.51000000355467,
+        "word": "think"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 183.89999995944723,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4099999964237213,
+        "time": 184.04999999521002,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.04999999701976776,
+        "time": 184.83999995706304,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 184.88999990937933,
+        "word": "great"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 185.22999994275793,
+        "word": "deal"
+      },
+      {
+        "confidence": 0.8182468414306641,
+        "duration": 0.28999999165534973,
+        "time": 185.48999993322118,
+        "word": "found"
+      },
+      {
+        "confidence": 0.9924301505088806,
+        "duration": 0.25999999046325684,
+        "time": 185.7799998950742,
+        "word": "that"
+      },
+      {
+        "confidence": 0.9904040098190308,
+        "duration": 0.5699999928474426,
+        "time": 186.03999988553747,
+        "word": "case"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 186.89000002858862,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 187.05999986646398,
+        "word": "this"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.429999977350235,
+        "time": 187.28999988553747,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.20999999344348907,
+        "time": 188.09000007627233,
+        "word": "what"
+      },
+      {
+        "confidence": 0.7045180797576904,
+        "duration": 0.25999999046325684,
+        "time": 188.3000001144193,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5999999642372131,
+        "time": 188.6699999999784,
+        "word": "feasible"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.20999999344348907,
+        "time": 189.29999963758215,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 189.53999988553747,
+        "word": "everything"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 189.88000003812536,
+        "word": "that"
+      },
+      {
+        "confidence": 0.9615161418914795,
+        "duration": 0.2199999988079071,
+        "time": 190.11000005719885,
+        "word": "is"
+      },
+      {
+        "confidence": 0.6807069778442383,
+        "duration": 0.3400000035762787,
+        "time": 190.3299998473905,
+        "word": "visible"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 190.6699999999784,
+        "word": "needs"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 190.9699997138761,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 191.04999963758215,
+        "word": "be"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.429999977350235,
+        "time": 191.15999977109655,
+        "word": "done"
+      },
+      {
+        "confidence": 0.9870520830154419,
+        "duration": 0.08999999612569809,
+        "time": 192.43999950406774,
+        "word": "i"
+      },
+      {
+        "confidence": 0.9870520830154419,
+        "duration": 0.14000000059604645,
+        "time": 192.52999965665563,
+        "word": "mean"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 192.6699999999784,
+        "word": "not"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 192.84999935147985,
+        "word": "only"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 193.03999988553747,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 193.22000019071325,
+        "word": "these"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6299999952316284,
+        "time": 193.49999992368444,
+        "word": "external"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6200000047683716,
+        "time": 194.13000003812536,
+        "word": "threats"
+      },
+      {
+        "confidence": 0.7910367250442505,
+        "duration": 0.1899999976158142,
+        "time": 194.8599995803617,
+        "word": "let's"
+      },
+      {
+        "confidence": 0.7369303107261658,
+        "duration": 0.17000000178813934,
+        "time": 195.0500001144193,
+        "word": "give"
+      },
+      {
+        "confidence": 0.9958379864692688,
+        "duration": 0.1599999964237213,
+        "time": 195.2699994277738,
+        "word": "we"
+      },
+      {
+        "confidence": 0.6021050810813904,
+        "duration": 0.1899999976158142,
+        "time": 195.4299992751859,
+        "word": "had"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.7199999690055847,
+        "time": 195.80999938962682,
+        "word": "internal"
+      },
+      {
+        "confidence": 0.8307315111160278,
+        "duration": 0.7899999618530273,
+        "time": 196.9199999999784,
+        "word": "dangers"
+      },
+      {
+        "confidence": 0.9721516966819763,
+        "duration": 0.2800000011920929,
+        "time": 197.7399996948026,
+        "word": "about"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 198.0199994277738,
+        "word": "can"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 198.59000007627233,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 198.74999992368444,
+        "word": "see"
+      },
+      {
+        "confidence": 0.9954990148544312,
+        "duration": 0.2800000011920929,
+        "time": 199.0500001144193,
+        "word": "more"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5999999642372131,
+        "time": 199.55999938962682,
+        "word": "violence"
+      },
+      {
+        "confidence": 0.9405342936515808,
+        "duration": 0.11999999731779099,
+        "time": 200.19000045774206,
+        "word": "and"
+      },
+      {
+        "confidence": 0.9915062189102173,
+        "duration": 0.22999998927116394,
+        "time": 200.30999938962682,
+        "word": "our"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.8299999833106995,
+        "time": 200.53999893186315,
+        "word": "society"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 202.49999992368444,
+        "word": "and"
+      },
+      {
+        "confidence": 0.7232844829559326,
+        "duration": 0.19999998807907104,
+        "time": 202.8699988555692,
+        "word": "does"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 203.06999961850866,
+        "word": "if"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 203.19000045774206,
+        "word": "you"
+      },
+      {
+        "confidence": 0.9961613416671753,
+        "duration": 0.14999999105930328,
+        "time": 203.35000030515417,
+        "word": "have"
+      },
+      {
+        "confidence": 0.5841473340988159,
+        "duration": 0.26999998092651367,
+        "time": 203.49999992368444,
+        "word": "certain"
+      },
+      {
+        "confidence": 0.8148998618125916,
+        "duration": 0.2800000011920929,
+        "time": 203.7700003814481,
+        "word": "isn't"
+      },
+      {
+        "confidence": 0.4924726188182831,
+        "duration": 0.26999998092651367,
+        "time": 204.049999160745,
+        "word": "your"
+      },
+      {
+        "confidence": 0.3904349207878113,
+        "duration": 0.11999999731779099,
+        "time": 204.31999961850866,
+        "word": "it"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6599999666213989,
+        "time": 204.44000045774206,
+        "word": "election"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6399999856948853,
+        "time": 205.15999977109655,
+        "word": "manifesto"
+      },
+      {
+        "confidence": 0.9825565814971924,
+        "duration": 0.19999998807907104,
+        "time": 205.799999160745,
+        "word": "was"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 205.99999992368444,
+        "word": "that"
+      },
+      {
+        "confidence": 0.9850500226020813,
+        "duration": 0.08999999612569809,
+        "time": 206.24999992368444,
+        "word": "they"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 206.34000007627233,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 206.49999992368444,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 206.5799998473905,
+        "word": "be"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 206.68000022886022,
+        "word": "more"
+      },
+      {
+        "confidence": 0.9934858679771423,
+        "duration": 0.38999998569488525,
+        "time": 206.90999977109655,
+        "word": "police"
+      },
+      {
+        "confidence": 0.9057201147079468,
+        "duration": 0.699999988079071,
+        "time": 207.3299998473905,
+        "word": "officers"
+      },
+      {
+        "confidence": 0.9781287312507629,
+        "duration": 0.1899999976158142,
+        "time": 208.18999855039343,
+        "word": "there's"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 208.37999908445104,
+        "word": "been"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.05999999865889549,
+        "time": 208.49999992368444,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3999999761581421,
+        "time": 208.55999938962682,
+        "word": "number"
+      },
+      {
+        "confidence": 0.9852487444877625,
+        "duration": 0.10999999940395355,
+        "time": 208.9599990081571,
+        "word": "of"
+      },
+      {
+        "confidence": 0.7085893154144287,
+        "duration": 0.07999999821186066,
+        "time": 209.21999923703893,
+        "word": "the"
+      },
+      {
+        "confidence": 0.6438886523246765,
+        "duration": 0.44999998807907104,
+        "time": 209.299999160745,
+        "word": "largest"
+      },
+      {
+        "confidence": 0.2555443346500397,
+        "duration": 0.1899999976158142,
+        "time": 210.3299998473905,
+        "word": "out"
+      },
+      {
+        "confidence": 0.6906545758247375,
+        "duration": 0.47999998927116394,
+        "time": 210.51999847409948,
+        "word": "fifteen"
+      },
+      {
+        "confidence": 0.6152775287628174,
+        "duration": 0.5799999833106995,
+        "time": 210.99999992368444,
+        "word": "thousand"
+      }
+    ],
+    [
+      {
+        "confidence": 0.974048912525177,
+        "duration": 0.07000000029802322,
+        "time": 212.97000000024937,
+        "word": "the"
+      },
+      {
+        "confidence": 0.9928293824195862,
+        "duration": 0.4399999976158142,
+        "time": 213.0400000005474,
+        "word": "question"
+      },
+      {
+        "confidence": 0.719001054763794,
+        "duration": 0.19999998807907104,
+        "time": 213.52999999518298,
+        "word": "we"
+      },
+      {
+        "confidence": 0.7140515446662903,
+        "duration": 0.09999999403953552,
+        "time": 213.72999998326205,
+        "word": "have"
+      },
+      {
+        "confidence": 0.8209565281867981,
+        "duration": 0.7899999618530273,
+        "time": 213.8300000071039,
+        "word": "questionnaires"
+      },
+      {
+        "confidence": 0.9790744185447693,
+        "duration": 0.3499999940395355,
+        "time": 214.64999999995135,
+        "word": "common"
+      },
+      {
+        "confidence": 0.4255799651145935,
+        "duration": 0.5299999713897705,
+        "time": 215.36000003809832,
+        "word": "well"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3799999952316284,
+        "time": 215.91999998087786,
+        "word": "i"
+      },
+      {
+        "confidence": 0.8690543174743652,
+        "duration": 0.17000000178813934,
+        "time": 216.5499998569002,
+        "word": "re"
+      },
+      {
+        "confidence": 0.9939841628074646,
+        "duration": 0.35999998450279236,
+        "time": 216.71999993319415,
+        "word": "supposed"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07999999821186066,
+        "time": 217.07999982828997,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.23999999463558197,
+        "time": 217.15999975199603,
+        "word": "find"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 217.39999999995135,
+        "word": "them"
+      },
+      {
+        "confidence": 0.9825996160507202,
+        "duration": 0.11999999731779099,
+        "time": 217.68999996180438,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 217.80999984736346,
+        "word": "how"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 217.94999971384905,
+        "word": "long"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 218.19999971384905,
+        "word": "will"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 218.3400000571718,
+        "word": "it"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3199999928474426,
+        "time": 218.57999982828997,
+        "word": "take"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.429999977350235,
+        "time": 218.92999973292254,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 219.40999975199603,
+        "word": "recruit"
+      },
+      {
+        "confidence": 0.9799601435661316,
+        "duration": 0.3499999940395355,
+        "time": 219.7599996566286,
+        "word": "terms"
+      },
+      {
+        "confidence": 0.47986891865730286,
+        "duration": 0.29999998211860657,
+        "time": 220.11000003809832,
+        "word": "probably"
+      },
+      {
+        "confidence": 0.682854175567627,
+        "duration": 0.20999999344348907,
+        "time": 220.40999975199603,
+        "word": "more"
+      },
+      {
+        "confidence": 0.6265015602111816,
+        "duration": 0.1599999964237213,
+        "time": 220.619999790143,
+        "word": "but"
+      },
+      {
+        "confidence": 0.5064709186553955,
+        "duration": 0.08999999612569809,
+        "time": 220.7799996375551,
+        "word": "i've"
+      },
+      {
+        "confidence": 0.5064709186553955,
+        "duration": 0.14000000059604645,
+        "time": 220.869999790143,
+        "word": "got"
+      },
+      {
+        "confidence": 0.7937031984329224,
+        "duration": 0.1599999964237213,
+        "time": 221.0099996566286,
+        "word": "it"
+      },
+      {
+        "confidence": 0.9894389510154724,
+        "duration": 0.17999999225139618,
+        "time": 221.6399997710695,
+        "word": "it"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 221.8200000762453,
+        "word": "is"
+      },
+      {
+        "confidence": 0.9978883862495422,
+        "duration": 0.28999999165534973,
+        "time": 221.96999969477557,
+        "word": "true"
+      },
+      {
+        "confidence": 0.48321181535720825,
+        "duration": 0.14000000059604645,
+        "time": 222.2599996566286,
+        "word": "put"
+      },
+      {
+        "confidence": 0.29350045323371887,
+        "duration": 0.12999999523162842,
+        "time": 222.39999999995135,
+        "word": "its"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 222.58999958033465,
+        "word": "behalf"
+      },
+      {
+        "confidence": 0.9487276077270508,
+        "duration": 0.6200000047683716,
+        "time": 222.95999946589373,
+        "word": "problems"
+      },
+      {
+        "confidence": 0.9685555100440979,
+        "duration": 0.4899999797344208,
+        "time": 223.66000022883318,
+        "word": "recruiting"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 224.14999999995135,
+        "word": "police"
+      },
+      {
+        "confidence": 0.9051019549369812,
+        "duration": 0.5099999904632568,
+        "time": 224.45999946589373,
+        "word": "officers"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 224.96999969477557,
+        "word": "one"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 225.2299999236574,
+        "word": "thing"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 225.4500001906862,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 225.5700000762453,
+        "word": "that"
+      },
+      {
+        "confidence": 0.981078028678894,
+        "duration": 0.07999999821186066,
+        "time": 225.79999961848162,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 225.87999954218768,
+        "word": "need"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 226.1699995040407,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25,
+        "time": 226.55999984736346,
+        "word": "pay"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 226.80999984736346,
+        "word": "them"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.05999999865889549,
+        "time": 227.03999938959979,
+        "word": "all"
+      },
+      {
+        "confidence": 0.9810895919799805,
+        "duration": 0.26999998092651367,
+        "time": 227.09999980921648,
+        "word": "right"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 228.18999996180438,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 228.48999919886492,
+        "word": "we"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 228.6399997710695,
+        "word": "also"
+      },
+      {
+        "confidence": 0.7738714218139648,
+        "duration": 0.3799999952316284,
+        "time": 229.37999954218768,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 229.80999984736346,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 231.25999870295428,
+        "word": "take"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 231.53999938959979,
+        "word": "away"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 231.74000015253924,
+        "word": "part"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 231.95999946589373,
+        "word": "of"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 232.05999984736346,
+        "word": "their"
+      },
+      {
+        "confidence": 0.6912097930908203,
+        "duration": 0.32999998331069946,
+        "time": 232.1999992370119,
+        "word": "bed"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 232.52999916071795,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07000000029802322,
+        "time": 232.66000022883318,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 232.7299999236574,
+        "word": "mean"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 233.0199989318361,
+        "word": "why"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1599999964237213,
+        "time": 233.84999885554217,
+        "word": "do"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 234.00999870295428,
+        "word": "they"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 234.18999900813006,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 234.50000038142107,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 234.67000045771502,
+        "word": "take"
+      },
+      {
+        "confidence": 0.8440175652503967,
+        "duration": 0.2800000011920929,
+        "time": 234.9799999236574,
+        "word": "care"
+      },
+      {
+        "confidence": 0.3662077784538269,
+        "duration": 0.1599999964237213,
+        "time": 235.25999870295428,
+        "word": "of"
+      },
+      {
+        "confidence": 0.7565580010414124,
+        "duration": 0.6100000143051147,
+        "time": 236.25000038142107,
+        "word": "minor"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.41999998688697815,
+        "time": 238.08999862666033,
+        "word": "traffic"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5,
+        "time": 238.50999870295428,
+        "word": "problems"
+      },
+      {
+        "confidence": 0.4780441224575043,
+        "duration": 0.08999999612569809,
+        "time": 239.00999870295428,
+        "word": "are"
+      },
+      {
+        "confidence": 0.8494649529457092,
+        "duration": 0.5600000023841858,
+        "time": 239.09999885554217,
+        "word": "minor"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 239.66000022883318,
+        "word": "car"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5999999642372131,
+        "time": 239.99999847407244,
+        "word": "accident"
+      },
+      {
+        "confidence": 0.6261162161827087,
+        "duration": 0.20999999344348907,
+        "time": 240.59999885554217,
+        "word": "white"
+      },
+      {
+        "confidence": 0.5356194972991943,
+        "duration": 0.32999998331069946,
+        "time": 240.859999084424,
+        "word": "canned"
+      },
+      {
+        "confidence": 0.9981474876403809,
+        "duration": 0.23999999463558197,
+        "time": 241.21999969477557,
+        "word": "other"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 241.45999946589373,
+        "word": "people"
+      },
+      {
+        "confidence": 0.631043553352356,
+        "duration": 0.3499999940395355,
+        "time": 241.78999938959979,
+        "word": "taking"
+      },
+      {
+        "confidence": 0.5127050280570984,
+        "duration": 0.07999999821186066,
+        "time": 242.1399997710695,
+        "word": "out"
+      },
+      {
+        "confidence": 0.50676429271698,
+        "duration": 0.10999999940395355,
+        "time": 242.21999969477557,
+        "word": "of"
+      },
+      {
+        "confidence": 0.9897522330284119,
+        "duration": 0.23999999463558197,
+        "time": 242.3299983977785,
+        "word": "that"
+      },
+      {
+        "confidence": 0.3803015947341919,
+        "duration": 0.14000000059604645,
+        "time": 242.5700000762453,
+        "word": "the"
+      },
+      {
+        "confidence": 0.534049391746521,
+        "duration": 0.23999999463558197,
+        "time": 242.70999946589373,
+        "word": "rocker"
+      },
+      {
+        "confidence": 0.5541144609451294,
+        "duration": 0.3400000035762787,
+        "time": 242.9499992370119,
+        "word": "scene"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 243.37999954218768,
+        "word": "if"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 243.59999885554217,
+        "word": "you"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 243.74000015253924,
+        "word": "take"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 244.08999862666033,
+        "word": "away"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 244.42999877924822,
+        "word": "all"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 244.70999946589373,
+        "word": "that"
+      },
+      {
+        "confidence": 0.6190532445907593,
+        "duration": 0.28999999165534973,
+        "time": 245.1999992370119,
+        "word": "poor"
+      },
+      {
+        "confidence": 0.48191553354263306,
+        "duration": 0.28999999165534973,
+        "time": 245.49000015253924,
+        "word": "preppy"
+      },
+      {
+        "confidence": 0.6826923489570618,
+        "duration": 0.3400000035762787,
+        "time": 245.78000106806658,
+        "word": "bed"
+      },
+      {
+        "confidence": 0.5158994793891907,
+        "duration": 0.10999999940395355,
+        "time": 246.1199974059572,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 246.22999801630877,
+        "word": "they"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 246.40999832148455,
+        "word": "would"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.20999999344348907,
+        "time": 246.53999938959979,
+        "word": "have"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 246.74999847407244,
+        "word": "so"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 246.9400009154787,
+        "word": "much"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 247.1199974059572,
+        "word": "more"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 247.2600006103029,
+        "word": "time"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 247.609999084424,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.41999998688697815,
+        "time": 247.7600006103029,
+        "word": "protect"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 248.17999877924822,
+        "word": "our"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5699999928474426,
+        "time": 248.33000030512713,
+        "word": "citizens"
+      },
+      {
+        "confidence": 0.9320042133331299,
+        "duration": 0.11999999731779099,
+        "time": 249.21999969477557,
+        "word": "they"
+      },
+      {
+        "confidence": 0.3240359127521515,
+        "duration": 0.1599999964237213,
+        "time": 249.33999862666033,
+        "word": "cor"
+      },
+      {
+        "confidence": 0.946414053440094,
+        "duration": 0.19999998807907104,
+        "time": 249.49999847407244,
+        "word": "dear"
+      },
+      {
+        "confidence": 0.9941413402557373,
+        "duration": 0.19999998807907104,
+        "time": 250.06999816889666,
+        "word": "you're"
+      },
+      {
+        "confidence": 0.8028121590614319,
+        "duration": 0.35999998450279236,
+        "time": 250.2699989318361,
+        "word": "right"
+      },
+      {
+        "confidence": 0.7518674731254578,
+        "duration": 0.14999999105930328,
+        "time": 250.78999938959979,
+        "word": "it's"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 250.9400009154787,
+        "word": "involves"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6200000047683716,
+        "time": 251.52999725336932,
+        "word": "recruiting"
+      },
+      {
+        "confidence": 0.7999554872512817,
+        "duration": 0.3999999761581421,
+        "time": 252.14999999995135,
+        "word": "these"
+      },
+      {
+        "confidence": 0.48914825916290283,
+        "duration": 0.35999998450279236,
+        "time": 252.67000045771502,
+        "word": "fifties"
+      },
+      {
+        "confidence": 0.6770287156105042,
+        "duration": 0.23999999463558197,
+        "time": 253.02999725336932,
+        "word": "house"
+      },
+      {
+        "confidence": 0.8726696372032166,
+        "duration": 0.14000000059604645,
+        "time": 253.2699989318361,
+        "word": "but"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 253.40999832148455,
+        "word": "his"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5699999928474426,
+        "time": 253.549997711133,
+        "word": "officers"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.26999998092651367,
+        "time": 254.1199974059572,
+        "word": "will"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 254.38999786372088,
+        "word": "be"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 254.72999801630877,
+        "word": "as"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4599999785423279,
+        "time": 254.92000045771502,
+        "word": "machine"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 255.58999862666033,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 255.81999816889666,
+        "word": "it"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3499999940395355,
+        "time": 256.03999938959976,
+        "word": "will"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3799999952316284,
+        "time": 256.420000457715,
+        "word": "probably"
+      },
+      {
+        "confidence": 0.9816101789474487,
+        "duration": 0.3400000035762787,
+        "time": 256.79999771113296,
+        "word": "take"
+      },
+      {
+        "confidence": 0.917685329914093,
+        "duration": 0.25999999046325684,
+        "time": 257.13999786372085,
+        "word": "us"
+      },
+      {
+        "confidence": 0.6680739521980286,
+        "duration": 0.25,
+        "time": 257.4299987792482,
+        "word": "through"
+      },
+      {
+        "confidence": 0.896243155002594,
+        "duration": 0.3100000023841858,
+        "time": 257.6799987792482,
+        "word": "answering"
+      },
+      {
+        "confidence": 0.9070090651512146,
+        "duration": 0.05999999865889549,
+        "time": 257.9900001525392,
+        "word": "all"
+      },
+      {
+        "confidence": 0.8897554874420166,
+        "duration": 0.429999977350235,
+        "time": 258.04999771113296,
+        "word": "this"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 258.5100006103029,
+        "word": "fuss"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 259.1799987792482,
+        "word": "that's"
+      },
+      {
+        "confidence": 0.9937182068824768,
+        "duration": 0.17000000178813934,
+        "time": 259.46999969477554,
+        "word": "why"
+      },
+      {
+        "confidence": 0.7631752490997314,
+        "duration": 0.14999999105930328,
+        "time": 259.63999786372085,
+        "word": "i"
+      },
+      {
+        "confidence": 0.56895911693573,
+        "duration": 0.3799999952316284,
+        "time": 259.78999938959976,
+        "word": "say"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17000000178813934,
+        "time": 260.44999923701187,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.17999999225139618,
+        "time": 260.6199974059572,
+        "word": "should"
+      },
+      {
+        "confidence": 0.8362425565719604,
+        "duration": 0.10999999940395355,
+        "time": 260.79999771113296,
+        "word": "be"
+      },
+      {
+        "confidence": 0.43223583698272705,
+        "duration": 0.29999998211860657,
+        "time": 260.9099983214845,
+        "word": "less"
+      },
+      {
+        "confidence": 0.6841912269592285,
+        "duration": 0.17999999225139618,
+        "time": 261.20999755854507,
+        "word": "brew"
+      },
+      {
+        "confidence": 0.7094888687133789,
+        "duration": 0.12999999523162842,
+        "time": 261.38999786372085,
+        "word": "up"
+      },
+      {
+        "confidence": 0.9006674289703369,
+        "duration": 0.09999999403953552,
+        "time": 261.5199989318361,
+        "word": "to"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 261.6199974059572,
+        "word": "see"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 261.80999984736343,
+        "word": "if"
+      },
+      {
+        "confidence": 0.5088831782341003,
+        "duration": 0.11999999731779099,
+        "time": 261.94999923701187,
+        "word": "i"
+      },
+      {
+        "confidence": 0.978959321975708,
+        "duration": 0.3199999928474426,
+        "time": 262.06999816889663,
+        "word": "police"
+      },
+      {
+        "confidence": 0.7375146150588989,
+        "duration": 0.6200000047683716,
+        "time": 262.38999786372085,
+        "word": "officers"
+      },
+      {
+        "confidence": 0.6363808512687683,
+        "duration": 0.12999999523162842,
+        "time": 263.03999938959976,
+        "word": "to"
+      },
+      {
+        "confidence": 0.8568963408470154,
+        "duration": 0.08999999612569809,
+        "time": 263.170000457715,
+        "word": "be"
+      },
+      {
+        "confidence": 0.5546371340751648,
+        "duration": 0.05999999865889549,
+        "time": 263.2600006103029,
+        "word": "a"
+      },
+      {
+        "confidence": 0.9477352499961853,
+        "duration": 0.38999998569488525,
+        "time": 263.31999816889663,
+        "word": "prism"
+      },
+      {
+        "confidence": 0.9736875891685486,
+        "duration": 0.17999999225139618,
+        "time": 263.78999938959976,
+        "word": "one"
+      },
+      {
+        "confidence": 0.9654297828674316,
+        "duration": 0.5,
+        "time": 264.3300003051271,
+        "word": "less"
+      },
+      {
+        "confidence": 0.9392535090446472,
+        "duration": 0.2800000011920929,
+        "time": 265.0800003051271,
+        "word": "work"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 265.359999084424,
+        "word": "there"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 265.45999755854507,
+        "word": "can"
+      },
+      {
+        "confidence": 0.9485689997673035,
+        "duration": 0.07999999821186066,
+        "time": 265.6499999999513,
+        "word": "be"
+      },
+      {
+        "confidence": 0.8800533413887024,
+        "duration": 0.17999999225139618,
+        "time": 265.72999801630874,
+        "word": "done"
+      },
+      {
+        "confidence": 0.7461882829666138,
+        "duration": 0.14999999105930328,
+        "time": 265.9099983214845,
+        "word": "by"
+      },
+      {
+        "confidence": 0.431673526763916,
+        "duration": 0.26999998092651367,
+        "time": 266.05999984736343,
+        "word": "other"
+      },
+      {
+        "confidence": 0.6857681274414062,
+        "duration": 0.429999977350235,
+        "time": 266.359999084424,
+        "word": "spotted"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 266.78999938959976,
+        "word": "time"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.19999998807907104,
+        "time": 267.21999969477554,
+        "word": "and"
+      },
+      {
+        "confidence": 0.9635832905769348,
+        "duration": 0.25,
+        "time": 267.420000457715,
+        "word": "this"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 267.72999801630874,
+        "word": "would"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.29999998211860657,
+        "time": 268.1899971007814,
+        "word": "bring"
+      },
+      {
+        "confidence": 0.7457799315452576,
+        "duration": 0.2199999988079071,
+        "time": 268.4900001525392,
+        "word": "more"
+      },
+      {
+        "confidence": 0.9623849987983704,
+        "duration": 0.35999998450279236,
+        "time": 268.70999755854507,
+        "word": "please"
+      },
+      {
+        "confidence": 0.34135952591896057,
+        "duration": 0.550000011920929,
+        "time": 269.0999969481935,
+        "word": "offices"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 269.6499999999513,
+        "word": "that"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 269.7799972533693,
+        "word": "put"
+      },
+      {
+        "confidence": 0.9335773587226868,
+        "duration": 0.14999999105930328,
+        "time": 269.9299987792482,
+        "word": "it"
+      },
+      {
+        "confidence": 0.8089252710342407,
+        "duration": 0.14000000059604645,
+        "time": 270.170000457715,
+        "word": "out"
+      },
+      {
+        "confidence": 0.9230197072029114,
+        "duration": 0.10999999940395355,
+        "time": 270.30999984736343,
+        "word": "on"
+      },
+      {
+        "confidence": 0.8667241930961609,
+        "duration": 0.07999999821186066,
+        "time": 270.420000457715,
+        "word": "the"
+      },
+      {
+        "confidence": 0.7964833378791809,
+        "duration": 0.47999998927116394,
+        "time": 270.4999984740724,
+        "word": "streetwise"
+      },
+      {
+        "confidence": 0.5754814743995667,
+        "duration": 0.38999998569488525,
+        "time": 270.97999801630874,
+        "word": "frosties"
+      },
+      {
+        "confidence": 0.9715160727500916,
+        "duration": 0.1899999976158142,
+        "time": 271.8300003051271,
+        "word": "and"
+      },
+      {
+        "confidence": 0.8286654353141785,
+        "duration": 0.17999999225139618,
+        "time": 272.0199989318361,
+        "word": "here"
+      },
+      {
+        "confidence": 0.9131813049316406,
+        "duration": 0.09999999403953552,
+        "time": 272.19999923701187,
+        "word": "i"
+      },
+      {
+        "confidence": 0.9793899059295654,
+        "duration": 0.23999999463558197,
+        "time": 272.29999771113296,
+        "word": "am"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14999999105930328,
+        "time": 272.5999969481935,
+        "word": "i"
+      },
+      {
+        "confidence": 0.988431453704834,
+        "duration": 0.1599999964237213,
+        "time": 272.7499984740724,
+        "word": "know"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.14000000059604645,
+        "time": 272.9099983214845,
+        "word": "what"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.09999999403953552,
+        "time": 273.04999771113296,
+        "word": "i'm"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 273.1499999999513,
+        "word": "talking"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 273.4299987792482,
+        "word": "about"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.08999999612569809,
+        "time": 273.6499999999513,
+        "word": "my"
+      },
+      {
+        "confidence": 0.9829568266868591,
+        "duration": 0.3199999928474426,
+        "time": 273.7400001525392,
+        "word": "father"
+      },
+      {
+        "confidence": 0.9829568266868591,
+        "duration": 0.17000000178813934,
+        "time": 274.05999984736343,
+        "word": "was"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.04999999701976776,
+        "time": 274.22999801630874,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.28999999165534973,
+        "time": 274.2799972533693,
+        "word": "police"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5299999713897705,
+        "time": 274.56999816889663,
+        "word": "officer"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.12999999523162842,
+        "time": 275.2699989318361,
+        "word": "and"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.04999999701976776,
+        "time": 275.3999999999513,
+        "word": "i"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.32999998331069946,
+        "time": 275.44999923701187,
+        "word": "know"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 275.7799972533693,
+        "word": "how"
+      },
+      {
+        "confidence": 0.99040287733078,
+        "duration": 0.23999999463558197,
+        "time": 275.9999984740724,
+        "word": "hat"
+      },
+      {
+        "confidence": 0.6120015978813171,
+        "duration": 0.10999999940395355,
+        "time": 276.2400001525392,
+        "word": "there"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3400000035762787,
+        "time": 276.3499969481935,
+        "word": "working"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.41999998688697815,
+        "time": 278.1999954223146,
+        "word": "they"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3100000023841858,
+        "time": 278.6600021361818,
+        "word": "are"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2199999988079071,
+        "time": 279.230001831006,
+        "word": "at"
+      },
+      {
+        "confidence": 0.934219241142273,
+        "duration": 0.10999999940395355,
+        "time": 279.4499954223146,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3700000047683716,
+        "time": 279.55999603266616,
+        "word": "limit"
+      },
+      {
+        "confidence": 0.6870701313018799,
+        "duration": 0.12999999523162842,
+        "time": 279.9299987792482,
+        "word": "as"
+      },
+      {
+        "confidence": 0.9819557070732117,
+        "duration": 0.14000000059604645,
+        "time": 280.05999603266616,
+        "word": "what"
+      },
+      {
+        "confidence": 0.7667685151100159,
+        "duration": 0.09999999403953552,
+        "time": 280.1999954223146,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.4699999988079071,
+        "time": 280.3000015258302,
+        "word": "possible"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3799999952316284,
+        "time": 281.56999816889663,
+        "word": "and"
+      },
+      {
+        "confidence": 0.9144576191902161,
+        "duration": 0.11999999731779099,
+        "time": 281.9499954223146,
+        "word": "is"
+      },
+      {
+        "confidence": 0.9641135334968567,
+        "duration": 0.17999999225139618,
+        "time": 282.06999816889663,
+        "word": "this"
+      },
+      {
+        "confidence": 0.8056180477142334,
+        "duration": 0.550000011920929,
+        "time": 282.4499954223146,
+        "word": "for"
+      },
+      {
+        "confidence": 0.3847672641277313,
+        "duration": 0.03999999910593033,
+        "time": 283.46999969477554,
+        "word": "a"
+      },
+      {
+        "confidence": 0.5318717956542969,
+        "duration": 0.17999999225139618,
+        "time": 283.5100006103029,
+        "word": "few"
+      },
+      {
+        "confidence": 0.678154706954956,
+        "duration": 0.19999998807907104,
+        "time": 283.71999969477554,
+        "word": "more"
+      },
+      {
+        "confidence": 0.4365546703338623,
+        "duration": 0.14999999105930328,
+        "time": 283.9199966430177,
+        "word": "than"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.7299999594688416,
+        "time": 284.06999816889663,
+        "word": "necessary"
+      },
+      {
+        "confidence": 0.9214773178100586,
+        "duration": 0.75,
+        "time": 284.8999999999513,
+        "word": "tube"
+      },
+      {
+        "confidence": 0.9284510016441345,
+        "duration": 0.4099999964237213,
+        "time": 285.83999481196304,
+        "word": "find"
+      },
+      {
+        "confidence": 0.6931959986686707,
+        "duration": 0.1899999976158142,
+        "time": 286.2499984740724,
+        "word": "into"
+      },
+      {
+        "confidence": 0.6697853207588196,
+        "duration": 0.29999998211860657,
+        "time": 286.44000091547866,
+        "word": "could"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.1899999976158142,
+        "time": 286.73999633784194,
+        "word": "this"
+      },
+      {
+        "confidence": 0.9766703844070435,
+        "duration": 0.14999999105930328,
+        "time": 286.9299987792482,
+        "word": "new"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.3199999928474426,
+        "time": 287.0800003051271,
+        "word": "police"
+      },
+      {
+        "confidence": 0.9332844018936157,
+        "duration": 0.5899999737739563,
+        "time": 287.3999999999513,
+        "word": "officers"
+      },
+      {
+        "confidence": 0.40962690114974976,
+        "duration": 0.2800000011920929,
+        "time": 288.2499984740724,
+        "word": "london"
+      }
+    ],
+    [
+      {
+        "confidence": 0.43687859177589417,
+        "duration": 0.1599999964237213,
+        "time": 289.3299999992859,
+        "word": "it's"
+      },
+      {
+        "confidence": 0.7118686437606812,
+        "duration": 0.44999998807907104,
+        "time": 289.4899999808085,
+        "word": "metal"
+      },
+      {
+        "confidence": 0.7792190313339233,
+        "duration": 0.1899999976158142,
+        "time": 290.009999961735,
+        "word": "put"
+      },
+      {
+        "confidence": 0.7952991724014282,
+        "duration": 0.1899999976158142,
+        "time": 290.28999993312476,
+        "word": "what"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.10999999940395355,
+        "time": 290.4799999903452,
+        "word": "is"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.11999999731779099,
+        "time": 290.59000000465034,
+        "word": "it"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.25999999046325684,
+        "time": 290.7100000094187,
+        "word": "like"
+      },
+      {
+        "confidence": 0.9680182933807373,
+        "duration": 0.04999999701976776,
+        "time": 291.1899999092829,
+        "word": "a"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.429999977350235,
+        "time": 291.2399999808085,
+        "word": "chancellor"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.05999999865889549,
+        "time": 291.6700000475657,
+        "word": "of"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.07000000029802322,
+        "time": 291.7299999903452,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.44999998807907104,
+        "time": 291.799999923588,
+        "word": "country"
+      },
+      {
+        "confidence": 0.6535628437995911,
+        "duration": 0.3499999940395355,
+        "time": 292.24999997127173,
+        "word": "won't"
+      },
+      {
+        "confidence": 0.6535628437995911,
+        "duration": 0.35999998450279236,
+        "time": 292.5999998759043,
+        "word": "release"
+      },
+      {
+        "confidence": 0.8487560749053955,
+        "duration": 0.5,
+        "time": 292.99999997127173,
+        "word": "officers"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.35999998450279236,
+        "time": 293.5299999426615,
+        "word": "often"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.38999998569488525,
+        "time": 293.8900000761759,
+        "word": "feel"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.2800000011920929,
+        "time": 294.6400000761759,
+        "word": "they"
+      },
+      {
+        "confidence": 0.9136320948600769,
+        "duration": 0.1599999964237213,
+        "time": 294.9199998091471,
+        "word": "are"
+      },
+      {
+        "confidence": 0.7804696559906006,
+        "duration": 0.5899999737739563,
+        "time": 295.0799996565592,
+        "word": "abandoned"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.22999998927116394,
+        "time": 295.6699998091471,
+        "word": "left"
+      },
+      {
+        "confidence": 0.9887109994888306,
+        "duration": 0.09999999403953552,
+        "time": 295.8999998282206,
+        "word": "to"
+      },
+      {
+        "confidence": 0.9702849984169006,
+        "duration": 0.1899999976158142,
+        "time": 295.99999973285315,
+        "word": "their"
+      },
+      {
+        "confidence": 0.6504390239715576,
+        "duration": 0.09999999403953552,
+        "time": 296.1899997900736,
+        "word": "own"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.6800000071525574,
+        "time": 296.2899996947062,
+        "word": "devices"
+      },
+      {
+        "confidence": 0.9857866168022156,
+        "duration": 0.10999999940395355,
+        "time": 298.86999961841224,
+        "word": "the"
+      },
+      {
+        "confidence": 1,
+        "duration": 0.5699999928474426,
+        "time": 298.9800002287638,
+        "word": "federal"
+      },
+      {
+        "confidence": 0.992232084274292,
+        "duration": 0.32999998331069946,
+        "time": 299.549999923588,
+        "word": "has"
+      }
+    ]
+  ]
+}
